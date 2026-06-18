@@ -210,7 +210,7 @@ def procesar_texto(texto):
 # EJECUCIÓN
 # =========================
 
-ruta = r'D:\Documentos\Luis\CCO\Recuperacion Informacion\Profeta\Gibran-Profeta.pdf'
+# ruta = Ruta del archivo a tokenizar 
 
 texto = leer_archivo_pdf(ruta)
 
