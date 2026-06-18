@@ -10,8 +10,8 @@ import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CORPUS_FOLDER = os.path.join(BASE_DIR, "Corpus")
-# CORPUS_FOLDER = r'D:\Documentos\Luis\CCO\Recuperacion Informacion\tarea 1\Corpus'
-INDEX_FOLDER = r'D:\Documentos\Luis\CCO\Recuperacion Informacion\tarea 1\templates'
+
+# INDEX_FOLDER = colocar ruta de archivo html para visualizar pag web
 # ============================================================
 #  FUNCIONES PARA CONVERSIÓN BOOLEANA
 # ============================================================
