@@ -17,7 +17,7 @@ nltk.download("punkt_tab")
 
 app = Flask(__name__)
 
-CORPUS_FOLDER = r'D:\Documentos\Luis\CCO\Recuperacion Informacion\RepositorioParaPractica3RI'
+# CORPUS_FOLDER = ruta a corpus
 
 # ============================================================
 #  FUNCIONES PARA CONVERSIÓN BOOLEANA
