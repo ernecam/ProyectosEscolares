@@ -12,7 +12,7 @@ nltk.download("punkt")
 nltk.download("stopwords")
 nltk.download('punkt_tab')
 
-CARPETA_CORPUS = r'D:\Documentos\Luis\CCO\Recuperacion Informacion\RepositorioParaPractica3RI'
+# CARPETA_CORPUS = ruta de la carpeta del corpus
 
 ARCHIVO_TOKENS = "1Diccionario.xlsx"
 ARCHIVO_LIMPIO = "2DiccMinus.xlsx"
